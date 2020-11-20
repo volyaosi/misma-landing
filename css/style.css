@@ -121,7 +121,7 @@ header > .main-wraper {
 
 .main-board {
     height: 500px;
-    background: url(src/bg.jpg) fixed; 
+    background: url('../img/bg.jpg') fixed; 
     background-size: cover;
     background-position: 50% -50px;
     position: relative;
@@ -282,7 +282,7 @@ header > .main-wraper {
     
 }
 .works {
-    background: url(src/banner-bg.jpg) no-repeat;
+    background: url('../img/banner-bg.jpg') no-repeat;
     background-size: cover;
     position: relative;
     
@@ -442,7 +442,7 @@ figure > figcaption > a > .fab {
 }
 
 .blog {
-    background: url(src/blog-bg.jpg) no-repeat;
+    background: url('../img/blog-bg.jpg') no-repeat;
     background-size: cover;
     position: relative;
 }
@@ -475,17 +475,17 @@ figure > figcaption > a > .fab {
  
 }
 .block-image1 {
-    background: url(src/6-850x850.jpg);
+    background: url('../img/6-850x850.jpg');
     
 }
 .block-image2 {
-    background: url(src/5-850x850.jpg);
+    background: url('../img/5-850x850.jpg');
 }
 .block-image3 {
-    background: url(src/2-850x850.jpg);
+    background: url('../img/2-850x850.jpg');
 }
 .block-image4 {
-    background: url(src/1-850x850.jpg);
+    background: url('../img/1-850x850.jpg');
 }
 
 .blog-container__item-text-container {
@@ -574,7 +574,7 @@ figure > figcaption > a > .fab {
 
 .form {
     height: 200px;
-    background: url(src/bg.jpg) no-repeat fixed;
+    background: url('../img/bg.jpg') no-repeat fixed;
     background-position: 50% -50px;
     background-size: cover;
     position: relative;
@@ -754,7 +754,7 @@ footer > .main-wraper {
     .main-board {
         height: auto;
         padding: 30px 0;
-        background: url(src/bg.jpg) no-repeat;
+        background: url('../img/bg.jpg') no-repeat;
     }
 
     .left-block > div:last-of-type {
